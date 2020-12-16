@@ -2,8 +2,6 @@
 
 DenseHMM is a modification of Hidden Markov Models (HMMs) that allows to learn dense vector representations of both the hidden states and the observables via gradient-descent methods. The code accompanies our paper "DenseHMM: Learning Hidden Markov Models by Learning Dense Representations" and allows to reproduce the results therein.
 
-==Using a `commit ammend`we should add the arXiv link later on to the paper name==
-
 ## Overview
 
 * DenseHMM uses a parameter-efficient, non-linear matrix factorization to describe transition probabilities of HMMs.
@@ -85,7 +83,7 @@ We downloaded the RCSB PDB protein sequences in October 2019 from https://www.rc
 
 All experiments were conducted on a `Intel(R) Xeon(R) Silver 4116` CPU @ 2.10GHz and a `NVidia Tesla V100` GPU.
 
-Using the training parameters specified in the Jupyter notebooks, we observed the following approximate runtimes==?==:
+Using the training parameters specified in the Jupyter notebooks, we observed the following approximate runtimes:
 
 ###### Paper section 4
 
