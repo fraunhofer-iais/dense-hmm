@@ -1,6 +1,6 @@
 # DenseHMM
 
-DenseHMM is a modification of Hidden Markov Models (HMMs) that allows to learn dense vector representations of both the hidden states and the observables via gradient-descent methods. The code accompanies our paper "DenseHMM: Learning Hidden Markov Models by Learning Dense Representations" and allows to reproduce the results therein.
+DenseHMM is a modification of Hidden Markov Models (HMMs) that allows to learn dense vector representations of both the hidden states and the observables via gradient-descent methods. The code accompanies our paper ["DenseHMM: Learning Hidden Markov Models by Learning Dense Representations"](https://arxiv.org/abs/2012.09783) and allows to reproduce the results therein.
 
 ## Overview
 
